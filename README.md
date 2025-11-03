@@ -3,7 +3,9 @@
 This repository contains OpenGL-based computer graphics projects completed during a semester-long graphics course. The assignments progressively build upon each other, covering fundamental graphics concepts from basic rendering to advanced mesh subdivision.
 
 ## Course Information
-- **Course**: CS175 Computer Graphics (Harvard University style curriculum)
+- **Course**: CS380 Introduction to Computer Graphics
+- **Institution**: KAIST
+- **Semester**: 2025 Spring
 - **Framework**: OpenGL with GLUT/GLEW
 - **Language**: C++
 - **Shading**: GLSL (OpenGL Shading Language)
@@ -333,21 +335,6 @@ Custom format with vertices, faces, and connectivity information
 
 ---
 
-## Acknowledgments
-
-Course materials and framework provided by:
-- **Professor Steven Gortler** - Harvard University CS175
-- OpenGL/GLUT framework
-- Original assignment specifications
-
----
-
-## Screenshots
-
-(Screenshots would typically be included here showing each assignment's visual output)
-
----
-
 ## Learning Outcomes
 
 Through these assignments, I gained practical experience in:
@@ -361,24 +348,6 @@ Through these assignments, I gained practical experience in:
 
 ---
 
-## Future Improvements
-
-Potential enhancements for these projects:
-- Phong/Blinn-Phong specular lighting
-- Shadow mapping
-- Advanced texturing (environment maps, reflection)
-- Physics-based animation
-- More sophisticated materials (PBR)
-- Additional subdivision schemes (Loop, √3)
-- Mesh editing tools
-- Export functionality for standard formats (OBJ, STL)
-
----
-
 ## License
 
 Educational project - Course assignment work
-
-## Contact
-
-For questions or discussions about the implementation details, feel free to reach out.
